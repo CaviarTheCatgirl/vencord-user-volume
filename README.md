@@ -41,9 +41,7 @@ This is the **Discord side**. It pairs with the [Discord User Volume Stream Deck
 
 ## Installation
 
-### Option 1: Manual
-
-1. Download the latest release or clone this repository.
+1. Download the [latest release](https://github.com/CaviarTheCatgirl/vencord-user-volume/releases/latest) or clone this repository.
 2. Copy the folder into your Vencord source checkout as `src/userplugins/userVolumeDeck`:
    ```
    Vencord/
@@ -63,10 +61,6 @@ This is the **Discord side**. It pairs with the [Discord User Volume Stream Deck
    ```
 4. Restart Discord **fully** (quit from the tray, not just close the window). Native code is only loaded at startup.
 5. Discord Settings → **Vencord → Plugins** → enable **UserVolumeDeck**.
-
-### Option 2: Server Panel
-
-Drop the folder into `data/vencord/plugins/userVolumeDeck/` and build it from the **Stream Deck → Vencord Plugins** tab.
 
 ### Then
 
