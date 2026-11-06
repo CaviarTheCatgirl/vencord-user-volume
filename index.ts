@@ -434,7 +434,7 @@ const onVolumeBoosterChange = () => scheduleRefresh(true);
 export default definePlugin({
     name: "UserVolumeDeck",
     description: "Control one person's Discord volume from a Stream Deck key or dial (with avatar and live volume). Needs the \"Discord User Volume\" Stream Deck plugin.",
-    authors: [{ name: "DarkSide1305", id: 108530201708773376n }],
+    authors: [{ name: "CaviarTheCatgirl", id: 108530201708773376n }],
     settings,
 
     async start() {
